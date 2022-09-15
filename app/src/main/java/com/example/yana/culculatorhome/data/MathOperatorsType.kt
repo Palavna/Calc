@@ -1,4 +1,4 @@
-package com.example.yana.culculatorhome
+package com.example.yana.culculatorhome.data
 
 enum class MathOperatorsType(val mathType: String) {
     PLUS("+"),
